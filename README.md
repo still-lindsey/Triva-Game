@@ -1,8 +1,8 @@
 # make a quiz
-and test your friends to see who knows you best
+Test your friends to see who knows you best.
 
-open and run the myquiz.py file on a code server like vs code
+Open and run the myquiz.py file on a code server like VS code.
 
-the quiz will create a game text file once you have typed your personalized questions, answer choices, and answer key in the program
+The program will create a game text file once you have typed your personalized questions, answer choices, and answer key in to the program.
 
-you can then replay the game again and again with 2 players
+You can then replay the game again and again with 2 players.

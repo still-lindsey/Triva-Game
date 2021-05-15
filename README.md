@@ -1,4 +1,4 @@
-# make a quiz
+# Trivia Game
 Test your friends to see who knows you best.
 
 Open and run the myquiz.py file on a code server like VS code.

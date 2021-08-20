@@ -65,7 +65,7 @@ def main():
   player2score=play_game("2",questions_list)
 
   #display winner
-  print("Player score: ", player1score, sep="")
+  print("Player 1 score: ", player1score, sep="")
   print("Player 2 score: ", player2score, sep="")
   if player1score==player2score:
     print("Tie game.")
